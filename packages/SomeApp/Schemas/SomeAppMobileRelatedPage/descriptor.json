@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d42f163-595b-46a1-aa34-16e6bbbba9f7",
+    "Name": "SomeAppMobileRelatedPage",
+    "ModifiedOnUtc": "\/Date(1794303830000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "some app (Mobile page settings)",
+    "DependsOn": []
+  }
+}

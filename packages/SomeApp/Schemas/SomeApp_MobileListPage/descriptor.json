@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6ec8acdb-2949-423f-8f47-54b7b6b4e1b2",
+    "Name": "SomeApp_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1794303830000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "some app mobile list page",
+    "DependsOn": []
+  }
+}

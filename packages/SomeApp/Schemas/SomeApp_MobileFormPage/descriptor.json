@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bc648132-688c-4eb2-8583-a19029cd68c7",
+    "Name": "SomeApp_MobileFormPage",
+    "ModifiedOnUtc": "\/Date(1794303830000)\/",
+    "Parent": {
+      "UId": "019c694a-1a3b-4812-b2e5-219b326061ae",
+      "Name": "MobilePageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "some app mobile form page",
+    "DependsOn": []
+  }
+}

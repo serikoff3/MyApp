@@ -1,0 +1,8 @@
+= MetaData.Schema.UId "c81647ab-6dca-4a89-bdc7-ecd9b78fb248"
+= MetaData.Schema.A2 "SomeApp_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
+~ MetaData.Schema.B2 ["8faaa913-b4e0-49cd-b538-89f8b10ad092","3d133984-11f6-4ddf-97bd-e8990af160c0","b223f125-9a80-4926-8ec8-989ed43b643b","86bed739-c7c8-4af3-b60d-cb24ff325f17"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d9d8e8ab-479b-45e6-92ba-7e6e40db582d",
+    "Name": "SomeApp_Detail",
+    "ModifiedOnUtc": "\/Date(1794303830000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "some app detail",
+    "DependsOn": []
+  }
+}
